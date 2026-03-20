@@ -1,2 +1,2 @@
-# cloudfidr_submission
+# cloudfide_submission
 Submission for Cloudfide Junior Data Scientist role.
